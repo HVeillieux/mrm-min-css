@@ -2387,7 +2387,7 @@ h1.splash {
 h1.splash small {
   display: initial;
   font-size: 0.5em;
-  color: #222
+  color: rgb(92, 134, 151)
 }
 
 h1.splash::first-letter {
