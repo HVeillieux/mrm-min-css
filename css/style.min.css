@@ -2368,9 +2368,9 @@ samp:not(.doc) {
   position: absolute
 }
 
-.index-splash-image:not(.no-filter) {
+/*.index-splash-image:not(.no-filter) {
   filter: blur(2px)
-}
+}*/
 
 h1.splash {
   position: absolute;
@@ -2393,7 +2393,7 @@ h1.splash small {
 h1.splash::first-letter {
   font-size: 1.33em;
   color: #fff;
-  background: #f22f21;
+  background: #e09a17;
   border-radius: 6px;
   padding: 0 10px
 }
