@@ -45,7 +45,7 @@ html,
 
 body {
   margin: 0;
-  color: var(--fore-color);
+  color: rgb(92, 134, 151);
   background: var(--back-color)
 }
 
@@ -2419,7 +2419,7 @@ a.button.splash {
   text-align: center;
   font-size: 1.25rem;
   border-color: #e79551;
-  background: rgba(255, 255, 255, 0.35);
+  background: rgba(92, 134, 151, 0.35);
   transition: all 0.3s
 }
 
